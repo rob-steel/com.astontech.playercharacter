@@ -1,0 +1,2 @@
+"# playercharacter"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/rob-steel/playercharacter.gitgit push -u origin master
+"# playercharacter"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/rob-steel/playercharacter.gitgit push -u origin master
